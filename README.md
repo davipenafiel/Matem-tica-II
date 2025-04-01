@@ -1,6 +1,6 @@
 # Matem-tica-II
 # site acessivel sobre vôlei 
-Reatoração de um ite implementando recursos de acessibilidade no html e css e js.
+Reatoração de um Site implementando recursos de acessibilidade no html e css e js.
 ## Recursos de acessibilidade 
 - Atributus Aria
 - Alt
