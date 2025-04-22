@@ -50,3 +50,9 @@ h1 {
 #mais-info[aria-hidden="false"] {
     display: block;
 }
+.menu-acessibilidade{
+    position: fixed;
+    top:2rem;
+    right:20px;
+    z-index: 1000;
+}
